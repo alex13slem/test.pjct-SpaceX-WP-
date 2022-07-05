@@ -1,0 +1,85 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 29.06.2022 17:41
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.7
+WORDPRESS:	6.0
+PHP INFO:	8.0.18 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1536M default) 
+MEMORY STACK: 46MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20220629_spacex_a2b66f05c7fbf2469524_20220629174034_database.sql
+SQL FILE SIZE: 1.51MB (1586917)
+SQL FILE TIME: 2022-06-29 17:41:22
+SQL RUNTIME: 3.97 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/OpenServer/domains/SpaceX
+ARCHIVE FILE: 20220629_spacex_a2b66f05c7fbf2469524_20220629174034_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	105.68MB
+STATS:	Dirs 458 | Files 3,685
+SQL ADDED: 20220629_spacex_a2b66f05c7fbf2469524_20220629174034_database.sql
+ZipArchive Object
+(
+    [lastId] => 4142
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4143
+    [filename] => C:\OpenServer\domains\SpaceX\wp-content\backups-dup-lite\tmp\20220629_spacex_a2b66f05c7fbf2469524_20220629174034_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 4142
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 55.21MB
+ARCHIVE RUNTIME: 5.97 sec.
+MEMORY STACK: 46MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/OpenServer/domains/SpaceX/wp-content/backups-dup-lite/tmp/20220629_spacex_a2b66f05c7fbf2469524_20220629174034_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.51MB
+INSTALLER FILE: 64.59KB
+ARCHIVE FILE: 56.22MB 
+EXPECTED FILE/DIRECTORY COUNT: 4,143
+ACTUAL FILE/DIRECTORY COUNT: 4,142
+ТЕСТ ЛОГИКИ АРХИВА: Пройден
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 10.52 sec.
+PEAK PHP MEMORY USED: 50MB
+DONE PROCESSING => 20220629_spacex 29.06.2022 17:41
+
